@@ -1,7 +1,6 @@
 # Data-Driven Workforce Attrition Risk & Organizational Health Dashboard
-
-## 📊 Live Interactive Dashboard
 👉 [**Click here to interact with the live Tableau Dashboard**](https://tableau.comauthoring/WorkforceAttritionandBurnoutRiskAnalysis/Sheet1/Overtime%20Burnout%20%26%20Employee%20Attrition%20Trends#1)
+
 
 
 ## 📌 Project Executive Summary
