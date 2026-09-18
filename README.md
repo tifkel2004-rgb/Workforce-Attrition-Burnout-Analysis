@@ -1,7 +1,7 @@
 # Data-Driven Workforce Attrition Risk & Organizational Health Dashboard
+👉 [**Click here to interact with the live Tableau Dashboard**](https://tableau.com)
 
-👉 **Click here to view the live interactive dashboard:**
-https://tableau.com
+ 
 
 
 
