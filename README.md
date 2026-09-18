@@ -1,6 +1,8 @@
 # Data-Driven Workforce Attrition Risk & Organizational Health Dashboard
 
-👉 [**Click here to interact with the live Tableau Dashboard**](https://public.tableau.com/app/profile/tiffany.stewart8681/viz/WorkforceAttritionandBurnoutRiskAnalysis/Sheet1)
+👉 **Click here to view the live interactive dashboard:**
+https://tableau.com
+
 
 
 
