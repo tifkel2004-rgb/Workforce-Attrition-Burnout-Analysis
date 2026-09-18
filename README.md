@@ -1,23 +1,22 @@
 # Data-Driven Workforce Attrition Risk & Organizational Health Dashboard
 
-👉 **Click here to interact with the live Tableau Dashboard:**
-https://public.tableau.com/authoring/WorkforceAttritionandBurnoutRiskAnalysis/Sheet1/Overtime%20Burnout%20%26%20Employee%20Attrition%20Trends#1 
+👉 [**Click here to interact with the live Tableau Dashboard**](https://public.tableau.com/authoring/WorkforceAttritionandBurnoutRiskAnalysis/Sheet1/Overtime%20Burnout%20%26%20Employee%20Attrition%20Trends#1)
 
 ## 📌 Project Executive Summary
-This project analyzes employee turnover and burnout using an interactive dashboard designed to help leadership spot attrition trends.
+An interactive dashboard analyzing employee turnover and burnout trends to support data-driven retention strategies.
 
-## 🛠️ Core Competencies & Tools Demonstrated
-* **Data Visualization & BI:** Tableau (Calculated Fields, Dynamic Filters, Interactive Parameters).
-* **Strategic Workforce Metrics:** Attrition Rate Tracking, Compensation Equity Analysis, Work-Life Balance Correlations.
+## 🛠️ Core Competencies & Tools
+* **Data Visualization & BI:** Tableau (Calculated Fields, Dynamic Filters, Parameters).
+* **Workforce Metrics:** Attrition Tracking, Compensation Analysis, Work-Life Balance Correlations.
 
 ---
 
-## 📈 Key Dashboard Metrics & Strategic Insights
-* Overtime workers show higher turnover rates, pointing to operational burnout as a key indicator.
-* Attrition spikes in lower income tiers with stagnant promotion histories.
-* Low manager and environment satisfaction correlate with early-stage attrition.
+## 📈 Key Insights
+* Overtime correlates strongly with increased turnover and burnout risk.
+* Attrition spikes among lower income brackets with limited advancement.
+* Low satisfaction scores strongly align with early departures.
 
 ---
 
 ## 📁 Repository Structure & Methodology
-Additional details on the dataset and methodology can be found in the live repository.
+Full details and data models are available via the live dashboard link above.
