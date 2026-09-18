@@ -14,7 +14,11 @@ Coming from a background in clinical psychology, I view data tracking as a tool 
 
 ---
 
-## 📈 Key Metrics & Systemic Recommendations
+## 📊 Dashboard Visual Preview & Strategic Insights
+
+Below is a visual layout of the completed workforce attrition model. 
+
+![Workforce Attrition Dashboard](dashboard_preview.png)
 
 ### 1. The Burnout Indicator: Overtime vs. Retention
 * **The Human Pattern:** Personnel working overtime show a disproportionately high turnover rate compared to standard-hour employees. This highlights operational overload as a clear, predictable leading indicator for voluntary exits.
@@ -32,6 +36,7 @@ Coming from a background in clinical psychology, I view data tracking as a tool 
 
 ## 📁 Repository Structure
 * `/data`: Contains the raw IBM HR Analytics dataset (`WA_Fn-UseC_-HR-Employee-Attrition.csv`).
+* `dashboard_preview.png`: Source visualization layout image.
 * `README.md`: Project summary, behavioral insights, and systemic framework.
 
 ## 🎓 Methodology & Attribution
