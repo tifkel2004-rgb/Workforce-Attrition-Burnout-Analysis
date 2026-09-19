@@ -1,7 +1,7 @@
 # Human-Centered People Analytics: Workforce Attrition & Retention Modeling
 
 👉 [**Click here to interact with the live Tableau Dashboard**](https://public.tableau.com/app/profile/tiffany.stewart8681/viz/WorkforceAttritionandBurnoutRiskAnalysis/Sheet1)
-)
+
 
 ## 📌 Project Perspective & Executive Summary
 Data can tell us *what* is happening across an institution, but a human-centered approach is required to understand *why*. This project bridges advanced behavioral insights with technical data analysis, evaluating a multi-variable workforce dataset of 1,470 records to uncover the underlying patterns behind employee turnover. 
